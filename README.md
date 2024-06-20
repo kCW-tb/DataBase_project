@@ -2,5 +2,4 @@
 Python code, medeapipe and MongoDB
 
 
-[작동 영상](!https://youtu.be/VTH4wU38NME)
-
+[!작동 영상](https://youtu.be/VTH4wU38NME)
