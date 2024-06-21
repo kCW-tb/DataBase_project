@@ -99,7 +99,7 @@ cv2.rectangle(background, (1070, 620), (1270, 715), (200, 200, 200), -1)
 
 # 텍스트 추가
 cv2.putText(background, "BUY", (65, 90), cv2.FONT_HERSHEY_SIMPLEX, 2, (0, 0, 255), 3)
-cv2.putText(background, "CANCLE", (35, 365), cv2.FONT_HERSHEY_SIMPLEX, 1.5, (0, 0, 255), 3)
+cv2.putText(background, "CANCEL", (35, 365), cv2.FONT_HERSHEY_SIMPLEX, 1.5, (0, 0, 255), 3)
 cv2.putText(background, "EXIT", (1110, 695), cv2.FONT_HERSHEY_SIMPLEX, 2, (0, 0, 255), 3)
 
 background[80:280, 300:500] = produrt_img1.copy()
